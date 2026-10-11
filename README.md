@@ -1,7 +1,7 @@
-## PC_Components_Calculator
+# PC_Components_Calculator
 Information system for automating the operations of a computer assembly company
 
-# Информационная система для автоматизации работы фирмы по сборке компьютеров
+## Информационная система для автоматизации работы фирмы по сборке компьютеров
 
 Система должна автоматизировать процесс комплектации компьютера, состоящего из стандартных блоков:
 
